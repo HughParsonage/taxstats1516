@@ -4,7 +4,7 @@
 \name{sample_file_1516_synth}
 \alias{sample_file_1516_synth}
 \title{Fictional 2015-16 sample file}
-\format{An object of class \code{data.table} (inherits from \code{data.frame}) with 269639 rows and 64 columns.}
+\format{An object of class \code{data.table} (inherits from \code{data.frame}) with 269639 rows and 65 columns.}
 \usage{
 sample_file_1516_synth
 }

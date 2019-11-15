@@ -1,6 +1,6 @@
 Package: taxstats1516
 Version: 1.0.0
-Title: Provides Dummy Version Of 2015-16 Sample File For Testing
+Title: Provides Dummy Version of 2015-16 Sample File for Testing
 Depends: R (>= 3.1.0), data.table
 Description: Simply provides a version of the 2015-16 sample file with similar dimensions.
 Authors@R: person("Hugh", "Parsonage", , "hugh.parsonage@gmail.com", c("aut", "cre"))
@@ -8,4 +8,4 @@ License: CC0
 Encoding: UTF-8
 LazyData: true
 ByteCompile: false
-RoxygenNote: 6.0.1
+RoxygenNote: 6.1.1
